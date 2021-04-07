@@ -12,8 +12,8 @@ I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hick
 
 <b>Forget Failure: Exploiting SRAM Data Remanence for Low-overhead Intermittent Computation</b>
 <b>Harrison Williams</b>, Xun Jian, Matthew Hicks. <i>ASPLOS 2020.</i>
-[\[PDF\]](https://harriswms.github.io/ForgetFailure.pdf)
-[\[Slides\]](https://harriswms.github.io/ForgetFailureSlides.pdf)
+[\[PDF\]](https://harriswms.github.io/files/ForgetFailure.pdf)
+[\[Slides\]](https://harriswms.github.io/files/ForgetFailureSlides.pdf)
 [\[Talk\]](https://www.youtube.com/watch?v=2E-y2FTuliU)
 
 ## Typography

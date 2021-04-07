@@ -1,6 +1,6 @@
-title: Researcher
+title: Harrison Williams
 url: "https://harriswms.github.io"
-baseurl: "/researcher"
+#baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,17 +8,17 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: "Page design"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
+# - name: "About"
+#   link: "/researcher/"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+# - name: "Contact"
+#   link: "contact"

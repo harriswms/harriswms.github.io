@@ -29,11 +29,6 @@ Low-power, all-digital hardware to monitor energy harvester supply voltage.
 <br>
 High-performance intermittent computation without high-performance persistent memory using SRAM data retention.
 
-## Experience
----
-
-Placeholder
-
 ## Teaching
 ---
 
@@ -44,4 +39,8 @@ This course teaches the security mindset and introduces the principles and pract
 ## Recognition
 ---
 
-Placeholder
+NSF Graduate Research Fellowship Program, Honorable Mention (2021).
+
+## Contact
+---
+hrwill \[at\] vt.edu

@@ -10,18 +10,29 @@ I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hick
 
 ## Publications
 
+---
+
 <b>Failure Sentinels: Ubiquitous Just-in-time Intermittent Computation via hardware support for continuous, low-cost, fine-grain voltage monitoring</b>
-<b>Harrison Williams</b>, Michael Moukarzel, Matthew Hicks. <i>ISCA 2021.</i>
+<br>
+<u>Harrison Williams</u>, Michael Moukarzel, Matthew Hicks. <i>ISCA 2021.</i>
 <br>
 Low-power, all-digital hardware to monitor energy harvester supply voltage.
 
 ---
 
 <b>Forget Failure: Exploiting SRAM Data Remanence for Low-overhead Intermittent Computation</b>
-<b>Harrison Williams</b>, Xun Jian, Matthew Hicks. <i>ASPLOS 2020.</i>
+<br>
+<u>Harrison Williams</u>, Xun Jian, Matthew Hicks. <i>ASPLOS 2020.</i>
 [\[PDF\]](https://harriswms.github.io/files/ForgetFailure.pdf)
 [\[Slides\]](https://harriswms.github.io/files/ForgetFailureSlides.pdf)
 [\[Talk\]](https://www.youtube.com/watch?v=2E-y2FTuliU)
 <br>
 High-performance intermittent computation without high-performance persistent memory using SRAM data retention.
 
+## Experience
+
+Placeholder
+
+## Recognition
+
+Placeholder

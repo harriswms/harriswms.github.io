@@ -4,20 +4,17 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.png">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hicks](http://www.impedimenttoprogress.com/). I'm generally interested in architecture and embedded systems. My research is focused on hardware and software support for computation on energy harvesting devices: small, low-power systems using energy scavenged from the environment to sense, compute, and transmit data.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+<b>Forget Failure: Exploiting SRAM Data Remanence for Low-overhead Intermittent Computation</b>
+<b>Harrison Williams</b>, Xun Jian, Matthew Hicks. <i>ASPLOS 2020.</i>
+[\[PDF\]](https://harriswms.github.io/ForgetFailure.pdf)
+[\[Slides\]](https://harriswms.github.io/ForgetFailureSlides.pdf)
+[\[Talk\]](https://www.youtube.com/watch?v=2E-y2FTuliU)
 
 ## Typography
 

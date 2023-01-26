@@ -12,6 +12,13 @@ I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hick
 ## Publications
 ---
 
+<b>Practical Considerations of Energy Harvesting Source in Minimization of Age of Information with Updating Erasures</b>
+<br>
+Fariborz Lohrabi Pour, <u>Harrison Williams</u>, Matthew Hicks, Dong Sam Ha. <i>ISCAS 2023.</i>
+<br>
+
+---
+
 <b>Failure Sentinels: Ubiquitous Just-in-time Intermittent Computation via hardware support for continuous, low-cost, fine-grain voltage monitoring</b>
 <br>
 <u>Harrison Williams</u>, Michael Moukarzel, Matthew Hicks. <i>ISCA 2021.</i>

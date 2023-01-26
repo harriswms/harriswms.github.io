@@ -47,6 +47,7 @@ This course teaches the security mindset and introduces the principles and pract
 ---
 
 Davenport Leadership Scholarship (2022).
+
 NSF Graduate Research Fellowship Program, Honorable Mention (2021).
 
 ## Contact

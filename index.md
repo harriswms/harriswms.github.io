@@ -7,7 +7,7 @@ layout: default
 
 <img class="profile-picture" src="files/profile.png">
 
-I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hicks](http://www.impedimenttoprogress.com/). I'm generally interested in computer architecture embedded systems, and networking. My research is focused on hardware and software support for computation on energy harvesting devices: small, low-power systems using energy scavenged from the environment to sense, compute, and transmit data.
+I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hicks](http://www.impedimenttoprogress.com/). I'm generally interested in computer architecture, embedded systems, and networking. My research is focused on hardware and software support for computation on energy harvesting devices: small, low-power systems using energy scavenged from the environment to sense, compute, and transmit data.
 
 ## Publications
 ---

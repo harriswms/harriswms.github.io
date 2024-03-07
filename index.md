@@ -9,7 +9,16 @@ layout: default
 
 I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hicks](http://www.impedimenttoprogress.com/). I'm generally interested in computer architecture, embedded systems, and networking. My research is focused on hardware and software support for computation on energy harvesting devices: small, low-power systems using energy scavenged from the environment to sense, compute, and transmit data.
 
+<b>I am on the academic job market starting May 2024!</b>
+
 ## Publications
+---
+
+<b>Energy-Adaptive Buffering for Efficient, Responsive, and Persistent Batteryless Systems.</b>
+<br>
+<u>Harrison Williams</u> and Matthew Hicks. <i>ASPLOS 2024 (Conditionally Accepted).</i>
+<br>
+
 ---
 
 <b>Practical Considerations of Energy Harvesting Source in Minimization of Age of Information with Updating Erasures</b>

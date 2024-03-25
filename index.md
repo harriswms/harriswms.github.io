@@ -16,7 +16,7 @@ I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hick
 
 <b>Energy-Adaptive Buffering for Efficient, Responsive, and Persistent Batteryless Systems.</b>
 <br>
-<u>Harrison Williams</u> and Matthew Hicks. <i>ASPLOS 2024 (Conditionally Accepted).</i>
+<u>Harrison Williams</u> and Matthew Hicks. <i>ASPLOS 2024.</i>
 <br>
 
 ---

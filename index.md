@@ -14,6 +14,13 @@ I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hick
 ## Publications
 ---
 
+<b>A Software Caching Runtime for Embedded NVRAM Systems.</b>
+<br>
+<u>Harrison Williams</u> and Matthew Hicks. <i>ASPLOS 2025.</i>
+<br>
+
+---
+
 <b>A Difference World: High-performance, NVM-invariant, Software-only Intermittent Computation.</b>
 <br>
 <u>Harrison Williams*</u>, Saim Ahmad\*, and Matthew Hicks. *Equal contribution. <i>USENIX ATC 2024.</i>

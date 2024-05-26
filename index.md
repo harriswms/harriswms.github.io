@@ -18,6 +18,7 @@ I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hick
 <br>
 <u>Harrison Williams</u> and Matthew Hicks. <i>ASPLOS 2025.</i>
 <br>
+Overcoming NVRAM access penalties on commercial microcontrollers by shifting code execution into SRAM.
 
 ---
 
@@ -25,6 +26,7 @@ I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hick
 <br>
 <u>Harrison Williams*</u>, Saim Ahmad\*, and Matthew Hicks. *Equal contribution. <i>USENIX ATC 2024.</i>
 <br>
+Efficient state rollback and re-execution for SRAM-based intermittent systems.
 
 ---
 
@@ -32,6 +34,7 @@ I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hick
 <br>
 <u>Harrison Williams</u> and Matthew Hicks. <i>ASPLOS 2024.</i>
 <br>
+Unified, variable-capacitance energy buffer for batteryless systems.
 
 ---
 

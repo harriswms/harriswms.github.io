@@ -16,7 +16,7 @@ I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hick
 
 <b>A Software Caching Runtime for Embedded NVRAM Systems.</b>
 <br>
-<u>Harrison Williams</u> and Matthew Hicks. <i>ASPLOS 2025.</i>
+<u>Harrison Williams</u> and Matthew Hicks. <i>ASPLOS 2025 (Conditionally accepted).</i>
 <br>
 Overcoming NVRAM access penalties on commercial microcontrollers by shifting code execution into SRAM.
 

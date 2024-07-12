@@ -42,14 +42,15 @@ Unified, variable-capacitance energy buffer for batteryless systems.
 
 ---
 
-<b>Practical Considerations of Energy Harvesting Source in Minimization of Age of Information with Updating Erasures</b>
+<b>Practical Considerations of Energy Harvesting Source in Minimization of Age of Information with Updating Erasures.</b>
 <br>
 Fariborz Lohrabi Pour, <u>Harrison Williams</u>, Matthew Hicks, Dong Sam Ha. <i>ISCAS 2023.</i>
 <br>
+[\[PDF\]](https://harriswms.github.io/files/Iscas2023.pdf)
 
 ---
 
-<b>Failure Sentinels: Ubiquitous Just-in-time Intermittent Computation via hardware support for continuous, low-cost, fine-grain voltage monitoring</b>
+<b>Failure Sentinels: Ubiquitous Just-in-time Intermittent Computation via hardware support for continuous, low-cost, fine-grain voltage monitoring.</b>
 <br>
 <u>Harrison Williams</u>, Michael Moukarzel, Matthew Hicks. <i>ISCA 2021.</i>
 <br>
@@ -59,7 +60,7 @@ Low-power, all-digital hardware to monitor energy harvester supply voltage.
 
 ---
 
-<b>Forget Failure: Exploiting SRAM Data Remanence for Low-overhead Intermittent Computation</b>
+<b>Forget Failure: Exploiting SRAM Data Remanence for Low-overhead Intermittent Computation.</b>
 <br>
 <u>Harrison Williams</u>, Xun Jian, Matthew Hicks. <i>ASPLOS 2020.</i>
 [\[PDF\]](https://harriswms.github.io/files/ForgetFailure.pdf)

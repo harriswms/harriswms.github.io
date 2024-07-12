@@ -7,9 +7,9 @@ layout: default
 
 <img class="profile-picture" src="files/profile.png">
 
-I am a Ph.D student at [CS@VT](https://cs.vt.edu/), advised by Dr. [Matthew Hicks](http://www.impedimenttoprogress.com/). I'm generally interested in computer architecture, embedded systems, and networking. My research is focused on hardware and software support for computation on energy harvesting devices: small, low-power systems using energy scavenged from the environment to sense, compute, and transmit data.
+I'm a postdoc at [CS@VT](https://cs.vt.edu/), where I work with Dr. [Matthew Hicks](https://impedimenttoprogress.com/) on computer architecture and embedded systems research. I'm particularly interested in software and architectural techniques to improve the performance and energy-efficiency of the lowest-power embedded/IoT devices. I received my PhD in Computer Science and BS degrees in Electrical and Computer Engineering from Virginia Tech in 2024 and 2019, respectively. My [dissertation](https://harriswms.github.io/files/Dissertation.pdf) explored circuit designs for power management in batteryless energy harvesting systems. As an undergrad, I built systems for detecting counterfeit recycled electronic devices based on aging mechanisms in SRAM (see the paper [here](https://harriswms.github.io/files/SiliconDatingArxiv.pdf)).
 
-<b>I am on the academic job market starting May 2024!</b>
+<b>I am on the faculty job market for the 2024-2025 academic year!</b>
 
 ## Publications
 ---
@@ -27,6 +27,8 @@ Overcoming NVRAM access penalties on commercial microcontrollers by shifting cod
 <u>Harrison Williams*</u>, Saim Ahmad\*, and Matthew Hicks. *Equal contribution. <i>USENIX ATC 2024.</i>
 <br>
 Efficient state rollback and re-execution for SRAM-based intermittent systems.
+[\[PDF\]](https://harriswms.github.io/files/Camel.pdf)
+[\[Slides\]](https://harriswms.github.io/files/CamelSlides.pdf)
 
 ---
 
@@ -35,6 +37,8 @@ Efficient state rollback and re-execution for SRAM-based intermittent systems.
 <u>Harrison Williams</u> and Matthew Hicks. <i>ASPLOS 2024.</i>
 <br>
 Unified, variable-capacitance energy buffer for batteryless systems.
+[\[PDF\]](https://harriswms.github.io/files/React.pdf)
+[\[Slides\]](https://harriswms.github.io/files/ReactSlides.pdf)
 
 ---
 
@@ -60,7 +64,6 @@ Low-power, all-digital hardware to monitor energy harvester supply voltage.
 <u>Harrison Williams</u>, Xun Jian, Matthew Hicks. <i>ASPLOS 2020.</i>
 [\[PDF\]](https://harriswms.github.io/files/ForgetFailure.pdf)
 [\[Slides\]](https://harriswms.github.io/files/ForgetFailureSlides.pdf)
-[\[Talk\]](https://www.youtube.com/watch?v=2E-y2FTuliU)
 <br>
 High-performance intermittent computation without high-performance persistent memory using SRAM data retention.
 

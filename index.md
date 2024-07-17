@@ -25,38 +25,38 @@ Overcoming NVRAM access penalties on commercial microcontrollers by shifting cod
 <b>A Difference World: High-performance, NVM-invariant, Software-only Intermittent Computation.</b>
 <br>
 <u>Harrison Williams*</u>, Saim Ahmad\*, and Matthew Hicks. *Equal contribution. <i>USENIX ATC 2024.</i>
-<br>
-Efficient state rollback and re-execution for SRAM-based intermittent systems.
 [\[PDF\]](https://harriswms.github.io/files/Camel.pdf)
 [\[Slides\]](https://harriswms.github.io/files/CamelSlides.pdf)
+<br>
+Efficient state rollback and re-execution for SRAM-based intermittent systems.
 
 ---
 
 <b>Energy-Adaptive Buffering for Efficient, Responsive, and Persistent Batteryless Systems.</b>
 <br>
 <u>Harrison Williams</u> and Matthew Hicks. <i>ASPLOS 2024.</i>
-<br>
-Unified, variable-capacitance energy buffer for batteryless systems.
 [\[PDF\]](https://harriswms.github.io/files/React.pdf)
 [\[Slides\]](https://harriswms.github.io/files/ReactSlides.pdf)
+<br>
+Unified, variable-capacitance energy buffer for batteryless systems.
 
 ---
 
 <b>Practical Considerations of Energy Harvesting Source in Minimization of Age of Information with Updating Erasures.</b>
 <br>
 Fariborz Lohrabi Pour, <u>Harrison Williams</u>, Matthew Hicks, Dong Sam Ha. <i>ISCAS 2023.</i>
-<br>
 [\[PDF\]](https://harriswms.github.io/files/Iscas2023.pdf)
+<br>
 
 ---
 
 <b>Failure Sentinels: Ubiquitous Just-in-time Intermittent Computation via hardware support for continuous, low-cost, fine-grain voltage monitoring.</b>
 <br>
 <u>Harrison Williams</u>, Michael Moukarzel, Matthew Hicks. <i>ISCA 2021.</i>
-<br>
-Low-power, all-digital hardware to monitor energy harvester supply voltage.
 [\[PDF\]](https://harriswms.github.io/files/FailureSentinels.pdf)
 [\[Slides\]](https://harriswms.github.io/files/FailureSentinelsSlides.pdf)
+<br>
+Low-power, all-digital hardware to monitor energy harvester supply voltage.
 
 ---
 

@@ -9,7 +9,7 @@ layout: default
 
 I'm a postdoc at [CS@VT](https://cs.vt.edu/), where I work with Dr. [Matthew Hicks](https://impedimenttoprogress.com/) on computer architecture and embedded systems research. I'm particularly interested in software and architectural techniques to improve the performance and energy-efficiency of the lowest-power embedded/IoT devices. I received my PhD in Computer Science and BS degrees in Electrical and Computer Engineering from Virginia Tech in 2024 and 2019, respectively. My [dissertation](https://harriswms.github.io/files/Dissertation.pdf) explored circuit designs for power management in batteryless energy harvesting systems. As an undergrad, I built systems for detecting counterfeit recycled electronic devices based on aging mechanisms in SRAM (see the paper [here](https://harriswms.github.io/files/SiliconDatingArxiv.pdf)).
 
-<b>I am on the faculty job market for the 2024-2025 academic year!</b>
+<b>I am on the faculty job market for the 2025-2026 academic year!</b>
 
 ## Publications
 ---

@@ -42,7 +42,7 @@ Unified, variable-capacitance energy buffer for batteryless systems.
 
 ---
 
-<b>Practical Considerations of Energy Harvesting Source in Minimization of Age of Information with Updating Erasures.</b>
+<b>RF Energy Harvesting in Minimization of Age of Information with Updating Erasures.</b>
 <br>
 Fariborz Lohrabi Pour, <u>Harrison Williams</u>, Matthew Hicks, Dong Sam Ha. <i>ISCAS 2023.</i>
 [\[PDF\]](https://harriswms.github.io/files/Iscas2023.pdf)

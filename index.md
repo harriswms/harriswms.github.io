@@ -22,6 +22,13 @@ Overcoming NVRAM access penalties on commercial microcontrollers by shifting cod
 
 ---
 
+<b>A Survey of Prototyping Platforms for Intermittent Computing Research.</b>
+<br>
+<u>Harrison Williams</u> and Matthew Hicks. <i>ENSsys 2024.</i>
+<br>
+
+---
+
 <b>A Difference World: High-performance, NVM-invariant, Software-only Intermittent Computation.</b>
 <br>
 <u>Harrison Williams*</u>, Saim Ahmad\*, and Matthew Hicks. *Equal contribution. <i>USENIX ATC 2024.</i>

@@ -26,6 +26,7 @@ Overcoming NVRAM access penalties on commercial microcontrollers by shifting cod
 <br>
 <u>Harrison Williams</u> and Matthew Hicks. <i>ENSsys 2024.</i>
 <br>
+<b>Best Paper Award.</b>
 
 ---
 

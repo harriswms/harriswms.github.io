@@ -11,22 +11,27 @@ I'm a postdoc at [CS@VT](https://cs.vt.edu/), where I work with Dr. [Matthew Hic
 
 <b>I am on the faculty job market for the 2025-2026 academic year!</b>
 
+[\[Research\]](https://harriswms.github.io/files/Research.pdf) [\[Teaching\]](https://harriswms.github.io/files/Teaching.pdf) [\[Diversity\]](https://harriswms.github.io/files/Diversity.pdf) [\[Service\]](https://harriswms.github.io/files/Service.pdf)
+
 ## Publications
 ---
 
 <b>A Software Caching Runtime for Embedded NVRAM Systems.</b>
 <br>
 <u>Harrison Williams</u> and Matthew Hicks. <i>ASPLOS 2025.</i>
+[\[PDF\]](https://harriswms.github.io/files/SwapRAM.pdf)
 <br>
-Overcoming NVRAM access penalties on commercial microcontrollers by shifting code execution into SRAM.
+Overcoming NVRAM access penalties on commercial microcontrollers by shifting code execution into SRAM. This paper technically "appears" in ASPLOS '24 Volume 4, which is presented at ASPLOS '25.
 
 ---
 
 <b>A Survey of Prototyping Platforms for Intermittent Computing Research.</b>
 <br>
 <u>Harrison Williams</u> and Matthew Hicks. <i>ENSsys 2024.</i>
+[\[PDF\]](https://harriswms.github.io/files/IntermittentSurvey.pdf)
 <br>
 <b>Best Paper Award.</b>
+An exploration of the commercial prototyping platforms available for intermittent system development, how their specific features and parameters affect research conclusions, and some recommended future directions.
 
 ---
 

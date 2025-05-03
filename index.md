@@ -93,4 +93,5 @@ NSF Graduate Research Fellowship Program, Honorable Mention (2021).
 
 ## Contact
 ---
-hrwill \[at\] vt.edu
+
+harrison@efficient.computer
